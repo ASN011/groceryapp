@@ -19,21 +19,6 @@ Freshbasket using kotlin
 ### **Screenshots -**
 ![HELP](https://github.com/smartinternz02/SPSGP-76766-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery_App/OUTPUT/Demo/Help.png)
 
-### Files Used
-
-| **File Type** | **Files Name** |
-| ----------- | ----------- |
-| **Layout Files** | - `activity_main.xml` |
-| | - `groceryadapter.xml` |
-| | - `grocerydialog.xml` |
-| **Adapter File** | `GroceryAdapter.kt` |
-| **Database File** | - `GroceryDao` |
-| | - `GroceryDatabase` |
-| | - `GroceryRepository` |
-| **UI Files** |- `MainActivity.kt` | 
-| | - `GroceryItemDialog.kt` |
-| | - `GroceryViewModel.kt` |
-| | - `GroceryViewModelFactory.kt` |
 
 
 
